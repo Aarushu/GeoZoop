@@ -1,0 +1,21 @@
+#logo
+{
+    width: 230px;
+    height: 230px;
+    border-radius: 90px;
+}
+
+#sub
+{
+    font-family: cursive;
+}
+
+#g1
+{
+    font-family: monospace;
+    font-size: large;
+    background-color: rgb(196, 235, 222);
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+}
